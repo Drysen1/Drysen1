@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Drysen1
 - 👀 I’m interested in Flutter and cross platform apps
 - 🌱 I’m currently expanding my knowledge in Flutter
-- 💞️ I’m looking to collaborate on intresting apps
+- 💞️ I’m looking to collaborate on interesting apps
 - 📫 How to reach me erik.drysen@live.se
 
 <!---
